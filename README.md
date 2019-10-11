@@ -2,4 +2,4 @@
 NodeJs Project - rouxmeet
 
 # Install
-``` npm install
+npm install
