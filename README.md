@@ -1,5 +1,5 @@
 # rouxmeet-app
 NodeJs Project - rouxmeet
 
-# Install
+# Installation
 npm install
